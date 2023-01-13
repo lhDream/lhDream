@@ -1,5 +1,5 @@
 <a href="https://github.com/lhDream">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=lhDream&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true">
+    <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lhDream&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true">
 </a>
 
 - 👋 Hi, I’m @lhDream
