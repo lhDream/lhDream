@@ -6,6 +6,7 @@
 - 👀 I’m interested in java C/C++ kotlin
 - 🌱 I’m currently learning kotlin
 - 📫 How to reach me luhuadream@foxmail.com
+- 🌍 blog [https://blog.luhua.site](https://blog.luhua.site)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
